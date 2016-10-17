@@ -1,0 +1,63 @@
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\obj\Debug\Obtain_Handle_of_element_in_CAD.Resources.resources
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\obj\Debug\Obtain Handle of element in CAD.vbproj.GenerateResource.Cache
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\obj\Debug\Interop.AutoCAD.dll
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\obj\Debug\Obtain Handle of element in CAD.vbproj.ResolveComReference.cache
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\Obtain Handle of element in CAD.dll
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\Obtain Handle of element in CAD.pdb
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\Obtain Handle of element in CAD.xml
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\obj\Debug\Obtain Handle of element in CAD.dll
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\obj\Debug\Obtain Handle of element in CAD.xml
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\obj\Debug\Obtain Handle of element in CAD.pdb
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\obj\Debug\Obtain Handle of element in CAD.vbprojResolveAssemblyReference.cache
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\accoremgd.dll
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\acdbmgd.dll
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\acmgd.dll
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\AdUiPalettes.dll
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\AcDx.dll
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\AcDxPublishUi.dll
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\AdWindows.dll
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\AcWelcomeScreen.dll
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\AcMr.dll
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\AcWindows.dll
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\AcTcMgd.dll
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\AcCui.dll
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\AcMNUParser.dll
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\en-US\acdbmgd.resources.dll
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\en-US\AcDx.resources.dll
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\en-US\AcDxPublishUi.resources.dll
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\en-US\AdWindows.resources.dll
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\en-US\AcWelcomeScreen.resources.dll
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\en-US\AcMr.resources.dll
+c:\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\en-US\AcWindows.resources.dll
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\Obtain Handle of element in CAD.dll
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\Obtain Handle of element in CAD.pdb
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\Obtain Handle of element in CAD.xml
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\en-US\acdbmgd.resources.dll
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\obj\Debug\Obtain Handle of element in CAD.vbprojResolveAssemblyReference.cache
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\obj\Debug\Obtain Handle of element in CAD.vbproj.ResolveComReference.cache
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\obj\Debug\Obtain_Handle_of_element_in_CAD.Resources.resources
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\obj\Debug\Obtain Handle of element in CAD.vbproj.GenerateResource.Cache
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\obj\Debug\Obtain Handle of element in CAD.dll
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\obj\Debug\Obtain Handle of element in CAD.xml
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\obj\Debug\Obtain Handle of element in CAD.pdb
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\obj\Debug\Obtain_Handle_of_element_in_CAD.Form1.resources
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\obj\Debug\Obtain_Handle_of_element_in_CAD.Resource1.resources
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\acdbmgd.dll
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\accoremgd.dll
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\acmgd.dll
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\AdUiPalettes.dll
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\AcDx.dll
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\AcDxPublishUi.dll
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\AdWindows.dll
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\AcWelcomeScreen.dll
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\AcMr.dll
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\AcWindows.dll
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\AcTcMgd.dll
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\AcCui.dll
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\AcMNUParser.dll
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\en-US\AcDx.resources.dll
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\en-US\AcDxPublishUi.resources.dll
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\en-US\AdWindows.resources.dll
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\en-US\AcWelcomeScreen.resources.dll
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\en-US\AcMr.resources.dll
+Y:\ENG Projects\C0495-OODA\US-BIM160075-DCC-Durham City Center\ZZ-Auxiliary Files\00-VN\Sample\Obtain Handle of element in CAD\Obtain Handle of element in CAD\bin\Debug\en-US\AcWindows.resources.dll
